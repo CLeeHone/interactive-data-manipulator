@@ -1,0 +1,64 @@
+﻿  CST8333_Project_By_Chloe_Lee-Hone.cpp
+  The contents of <format> are available only with C++20 or later.
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone.cpp(38,9): warning C4189: 'res': local variable is initialized but not referenced
+  RecordConsoleView.cpp
+  The contents of <format> are available only with C++20 or later.
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordConsoleView.cpp(63,63): warning C4458: declaration of 'userResponse' hides class member
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordConsoleView.h(31,6): message : see declaration of 'RecordConsoleView::userResponse'
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordConsoleView.cpp(99,18): warning C4458: declaration of 'userResponse' hides class member
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordConsoleView.h(31,6): message : see declaration of 'RecordConsoleView::userResponse'
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordConsoleView.cpp(131,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordConsoleView.cpp(132,20): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordConsoleView.cpp(148,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordConsoleView.cpp(149,18): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordConsoleView.cpp(147,86): warning C4100: 'numRecords': unreferenced formal parameter
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordConsoleView.cpp(470,33): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+  RecordDAO.cpp
+  The contents of <format> are available only with C++20 or later.
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(107,39): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(108,35): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(109,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(110,43): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(111,43): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(112,35): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(113,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(114,43): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(115,39): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(116,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(117,41): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(118,36): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(119,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(120,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(121,41): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(122,39): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(147,98): warning C4458: declaration of 'MAX_LIST_SIZE' hides class member
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.h(39,19): message : see declaration of 'RecordDAO::MAX_LIST_SIZE'
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(149,33): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(163,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(164,46): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(190,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(192,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(193,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(194,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(195,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(196,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(197,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(198,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(199,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(200,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(201,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(202,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(203,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(204,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(205,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(206,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordDAO.cpp(207,37): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+  RecordDTO.cpp
+  The contents of <format> are available only with C++20 or later.
+  RecordService.cpp
+  The contents of <format> are available only with C++20 or later.
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordService.cpp(47,46): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\CST8333_Project_By_Chloe_Lee-Hone\RecordService.cpp(59,54): warning C4365: 'argument': conversion from 'int' to 'const unsigned int', signed/unsigned mismatch
+  Generating Code...
+  CST8333_Project_By_Chloe_Lee-Hone.vcxproj -> C:\Users\Chloe\source\repos\CST8333_Project_By_Chloe_Lee-Hone\Debug\CST8333_Project_By_Chloe_Lee-Hone.exe
